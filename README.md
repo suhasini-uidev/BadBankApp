@@ -20,7 +20,7 @@ Technology used: The technologies used are HTML, CSS, javascript, React, Docker,
 
 Features: The features in banking application  :-
 A Customer is required to create an account to avail services offered by Bank. Bank verifies detail and creates new account for each new customer, Each customer can check the balance in bank account ,A customer can execute cash transactions where the customer must either add cash value to bank account or withdraw cash from account. Either of two or both that is credit as well as debit cash, might be executed to successfully execute one or multiple transactions.After each successful transaction customer might get details for action, Alldata button to check all the transactions the customer performed on his account, In future I want to include a Login  and Logout  buttons with Authentication.
-Creating Accounts: We can use the http://localhost:3000/account/create/<name>/<email>/<password> in a browser to create add an account.
-Display All Accounts: We can view all the accounts by accessing http://localhost:3000/account/all in a browser
+Creating Accounts: We can use the url, http://localhost:3000/account/create/<name>/<email>/<password> in a browser to create an account.
+Display All Accounts: Lists all the accounts by accessing url, http://localhost:3000/account/all in a browser
 
 License: MIT
