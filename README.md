@@ -17,6 +17,6 @@ Features: The features in banking application  :-
        A Customer is required to create an account to avail services offered by Bank. Bank verifies detail and creates new account for each new customer, Each customer can check the balance in bank account ,A customer can execute cash transactions where the customer must either add cash value to bank account or withdraw cash from account. Either of two or both that is credit as well as debit cash, might be executed to successfully execute one or multiple transactions.After each successful transaction customer might get details for action, Alldata button to check all the transactions the customer performed on his account, In future I want to include a Login  and Logout  buttons with Authentication.
 
        We can use the http://localhost:3000/account/create/<name>/<email>/<password> in a browser to create add an account.
-       We can view all account by accessing http://localhost:3000/account/all in a browser
+       We can view all the accounts by accessing http://localhost:3000/account/all in a browser
 
 License: MIT
